@@ -76,7 +76,7 @@ https://YOUR_PRIVATE_API_HOST/endpoint/{user_id}
 ## Ejecucion
 
 ```powershell
-python .\apps\main.py
+python .\main.py
 ```
 
 ## Seguridad y confidencialidad
